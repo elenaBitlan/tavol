@@ -1,1 +1,5 @@
 tavol.md
+
+if (window.location.href==="tavol.ro") {
+    window.location.href = tavol.md"; 
+}
